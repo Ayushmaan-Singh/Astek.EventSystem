@@ -7,8 +7,6 @@ This repository is free to use, modify, and integrate into your own products. Ho
 
 # Astek EventSystem: User Guide
 
-*Version 1.0.0. How to use the library in every situation, written for people who have the DLL and not the source code.*
-
 [Back to the README](../README.md) | [Installation Guide](INSTALL.md)
 
 ## Contents
